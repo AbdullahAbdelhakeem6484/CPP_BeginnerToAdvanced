@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\SEITech_Solutions2023\02- C++\C++ Projects_MennatAllh_2023\01_Beginner\02_Hospital Management System\Version 01\main.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SEITech_Solutions2023\02- C++\C++ Projects_MennatAllh_2023\01_Beginner\02_Hospital Management System\Version 01\Doctor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SEITech_Solutions2023\02- C++\C++ Projects_MennatAllh_2023\01_Beginner\02_Hospital Management System\Version 01\Appointment.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SEITech_Solutions2023\02- C++\C++ Projects_MennatAllh_2023\01_Beginner\02_Hospital Management System\Version 01\HospitalSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SEITech_Solutions2023\02- C++\C++ Projects_MennatAllh_2023\01_Beginner\02_Hospital Management System\Version 01\Patient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\SEITech_Solutions2023\02- C++\C++ Projects_MennatAllh_2023\01_Beginner\02_Hospital Management System\Version 01\Appointment.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SEITech_Solutions2023\02- C++\C++ Projects_MennatAllh_2023\01_Beginner\02_Hospital Management System\Version 01\Doctor.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SEITech_Solutions2023\02- C++\C++ Projects_MennatAllh_2023\01_Beginner\02_Hospital Management System\Version 01\HospitalSystem.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SEITech_Solutions2023\02- C++\C++ Projects_MennatAllh_2023\01_Beginner\02_Hospital Management System\Version 01\Patient.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\SEITech_Solutions2023\02- C++\C++ Projects_MennatAllh_2023\01_Beginner\02_Hospital Management System\Version 01\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{270A421D-5909-3056-9C4C-15101E50B62E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DBC1C17A-2511-32CA-BD6C-3043E3A4B991}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

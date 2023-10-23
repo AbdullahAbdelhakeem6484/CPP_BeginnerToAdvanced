@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\SEITech_Solutions2023\02- C++\C++ Projects_MennatAllh_2023\01_Beginner\02_Hospital Management System\Version 01\build\CMakeFiles\d8d6ea5fbbfa8fa546b429d9731c2368\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F453C194-6D10-3AC9-8739-DAD7A996C31F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

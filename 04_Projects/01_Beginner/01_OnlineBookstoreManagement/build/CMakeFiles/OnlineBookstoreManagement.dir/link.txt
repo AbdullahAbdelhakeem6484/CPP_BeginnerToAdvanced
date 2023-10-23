@@ -1,3 +1,0 @@
-C:\Users\AbdullahAbdelhakeem\anaconda3\Lib\site-packages\cmake\data\bin\cmake.exe -E rm -f CMakeFiles\OnlineBookstoreManagement.dir/objects.a
-C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\OnlineBookstoreManagement.dir/objects.a @CMakeFiles\OnlineBookstoreManagement.dir\objects1
-C:\msys64\mingw64\bin\c++.exe -Wl,--whole-archive CMakeFiles\OnlineBookstoreManagement.dir/objects.a -Wl,--no-whole-archive -o OnlineBookstoreManagement.exe -Wl,--out-implib,libOnlineBookstoreManagement.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\OnlineBookstoreManagement.dir\linkLibs.rsp

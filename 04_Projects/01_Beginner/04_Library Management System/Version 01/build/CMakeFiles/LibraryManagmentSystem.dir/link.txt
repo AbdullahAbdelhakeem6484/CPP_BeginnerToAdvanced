@@ -1,0 +1,3 @@
+C:\Users\AbdullahAbdelhakeem\anaconda3\Lib\site-packages\cmake\data\bin\cmake.exe -E rm -f CMakeFiles\LibraryManagmentSystem.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\LibraryManagmentSystem.dir/objects.a @CMakeFiles\LibraryManagmentSystem.dir\objects1
+C:\msys64\mingw64\bin\c++.exe -Wl,--whole-archive CMakeFiles\LibraryManagmentSystem.dir/objects.a -Wl,--no-whole-archive -o LibraryManagmentSystem.exe -Wl,--out-implib,libLibraryManagmentSystem.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\LibraryManagmentSystem.dir\linkLibs.rsp
