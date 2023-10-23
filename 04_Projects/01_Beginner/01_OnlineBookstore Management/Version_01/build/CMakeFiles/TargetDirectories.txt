@@ -1,0 +1,3 @@
+C:/SEITech_Solutions2023/02- C++/C++ Projects_MennatAllh_2023/01_Beginner/01_OnlineBookstore ManagementSystem/build/CMakeFiles/OnlineBookstoreManagement.dir
+C:/SEITech_Solutions2023/02- C++/C++ Projects_MennatAllh_2023/01_Beginner/01_OnlineBookstore ManagementSystem/build/CMakeFiles/edit_cache.dir
+C:/SEITech_Solutions2023/02- C++/C++ Projects_MennatAllh_2023/01_Beginner/01_OnlineBookstore ManagementSystem/build/CMakeFiles/rebuild_cache.dir
