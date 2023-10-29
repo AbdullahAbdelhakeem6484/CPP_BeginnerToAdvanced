@@ -1,4 +1,5 @@
-cmake_minimum_required(VERSION 3.0)
+cmake_minimum_required(VERSION 3.5)  # Update minimum required version
+
 project(AskFm)
 
 # Set C++ standard to C++14
@@ -13,9 +14,7 @@ set(SOURCES
 # Header files
 set(HEADERS
     AskFm.hpp
-    User.hpp
-
-)
+    User.hpp)
 
 # Add an executable
 add_executable(${PROJECT_NAME} ${SOURCES} ${HEADERS})

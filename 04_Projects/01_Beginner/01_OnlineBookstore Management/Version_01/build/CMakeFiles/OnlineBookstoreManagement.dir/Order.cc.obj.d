@@ -1,6 +1,6 @@
 CMakeFiles/OnlineBookstoreManagement.dir/Order.cc.obj: \
- C:\SEITech_Solutions2023\02-\ C++\C++\ Projects_MennatAllh_2023\01_Beginner\01_OnlineBookstore\ ManagementSystem\Order.cc \
- C:\SEITech_Solutions2023\02-\ C++\C++\ Projects_MennatAllh_2023\01_Beginner\01_OnlineBookstore\ ManagementSystem\Order.hh \
+ D:\01_Cpp\ Professional\CPP_BeginnerToAdvanced\04_Projects\01_Beginner\01_OnlineBookstore\ Management\Version_01\Order.cc \
+ D:\01_Cpp\ Professional\CPP_BeginnerToAdvanced\04_Projects\01_Beginner\01_OnlineBookstore\ Management\Version_01\Order.hh \
  C:/msys64/mingw64/include/c++/12.1.0/iostream \
  C:/msys64/mingw64/include/c++/12.1.0/x86_64-w64-mingw32/bits/c++config.h \
  C:/msys64/mingw64/include/c++/12.1.0/x86_64-w64-mingw32/bits/os_defines.h \

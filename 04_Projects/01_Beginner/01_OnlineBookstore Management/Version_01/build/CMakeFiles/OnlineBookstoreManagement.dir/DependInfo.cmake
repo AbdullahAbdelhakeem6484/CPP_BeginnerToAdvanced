@@ -8,14 +8,14 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/SEITech_Solutions2023/02- C++/C++ Projects_MennatAllh_2023/01_Beginner/01_OnlineBookstore ManagementSystem/Book.cc" "CMakeFiles/OnlineBookstoreManagement.dir/Book.cc.obj" "gcc" "CMakeFiles/OnlineBookstoreManagement.dir/Book.cc.obj.d"
-  "C:/SEITech_Solutions2023/02- C++/C++ Projects_MennatAllh_2023/01_Beginner/01_OnlineBookstore ManagementSystem/Order.cc" "CMakeFiles/OnlineBookstoreManagement.dir/Order.cc.obj" "gcc" "CMakeFiles/OnlineBookstoreManagement.dir/Order.cc.obj.d"
-  "C:/SEITech_Solutions2023/02- C++/C++ Projects_MennatAllh_2023/01_Beginner/01_OnlineBookstore ManagementSystem/User.cc" "CMakeFiles/OnlineBookstoreManagement.dir/User.cc.obj" "gcc" "CMakeFiles/OnlineBookstoreManagement.dir/User.cc.obj.d"
-  "C:/SEITech_Solutions2023/02- C++/C++ Projects_MennatAllh_2023/01_Beginner/01_OnlineBookstore ManagementSystem/app.cc" "CMakeFiles/OnlineBookstoreManagement.dir/app.cc.obj" "gcc" "CMakeFiles/OnlineBookstoreManagement.dir/app.cc.obj.d"
+  "D:/01_Cpp Professional/CPP_BeginnerToAdvanced/04_Projects/01_Beginner/01_OnlineBookstore Management/Version_01/Book.cc" "CMakeFiles/OnlineBookstoreManagement.dir/Book.cc.obj" "gcc" "CMakeFiles/OnlineBookstoreManagement.dir/Book.cc.obj.d"
+  "D:/01_Cpp Professional/CPP_BeginnerToAdvanced/04_Projects/01_Beginner/01_OnlineBookstore Management/Version_01/Order.cc" "CMakeFiles/OnlineBookstoreManagement.dir/Order.cc.obj" "gcc" "CMakeFiles/OnlineBookstoreManagement.dir/Order.cc.obj.d"
+  "D:/01_Cpp Professional/CPP_BeginnerToAdvanced/04_Projects/01_Beginner/01_OnlineBookstore Management/Version_01/User.cc" "CMakeFiles/OnlineBookstoreManagement.dir/User.cc.obj" "gcc" "CMakeFiles/OnlineBookstoreManagement.dir/User.cc.obj.d"
+  "D:/01_Cpp Professional/CPP_BeginnerToAdvanced/04_Projects/01_Beginner/01_OnlineBookstore Management/Version_01/app.cc" "CMakeFiles/OnlineBookstoreManagement.dir/app.cc.obj" "gcc" "CMakeFiles/OnlineBookstoreManagement.dir/app.cc.obj.d"
   )
 
-# Targets to which this target links.
-set(CMAKE_TARGET_LINKED_INFO_FILES
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
   )
 
 # Fortran module output directory.

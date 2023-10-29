@@ -1,8 +1,8 @@
-# Install script for directory: C:/SEITech_Solutions2023/02- C++/C++ Projects_MennatAllh_2023/01_Beginner/01_OnlineBookstore ManagementSystem
+# Install script for directory: D:/01_Cpp Professional/CPP_BeginnerToAdvanced/04_Projects/01_Beginner/01_OnlineBookstore Management/Version_01
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/BookstoreManagement")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/OnlineBookstoreManagement")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/SEITech_Solutions2023/02- C++/C++ Projects_MennatAllh_2023/01_Beginner/01_OnlineBookstore ManagementSystem/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/01_Cpp Professional/CPP_BeginnerToAdvanced/04_Projects/01_Beginner/01_OnlineBookstore Management/Version_01/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

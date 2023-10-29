@@ -1,6 +1,6 @@
 CMakeFiles/AskFm.dir/app.cc.obj: \
- C:\SEITech_Solutions2023\02-\ C++\C++\ Projects_MennatAllh_2023\01_Beginner\03_Ask_Fm\Version\ 01\app.cc \
- C:\SEITech_Solutions2023\02-\ C++\C++\ Projects_MennatAllh_2023\01_Beginner\03_Ask_Fm\Version\ 01\AskFm.hpp \
+ D:\01_Cpp\ Professional\CPP_BeginnerToAdvanced\04_Projects\01_Beginner\03_Ask_Fm\Version\ 01\app.cc \
+ D:\01_Cpp\ Professional\CPP_BeginnerToAdvanced\04_Projects\01_Beginner\03_Ask_Fm\Version\ 01\AskFm.hpp \
  C:/msys64/mingw64/include/c++/12.1.0/iostream \
  C:/msys64/mingw64/include/c++/12.1.0/x86_64-w64-mingw32/bits/c++config.h \
  C:/msys64/mingw64/include/c++/12.1.0/x86_64-w64-mingw32/bits/os_defines.h \
@@ -133,4 +133,4 @@ CMakeFiles/AskFm.dir/app.cc.obj: \
  C:/msys64/mingw64/include/c++/12.1.0/bits/stl_vector.h \
  C:/msys64/mingw64/include/c++/12.1.0/bits/stl_bvector.h \
  C:/msys64/mingw64/include/c++/12.1.0/bits/vector.tcc \
- C:\SEITech_Solutions2023\02-\ C++\C++\ Projects_MennatAllh_2023\01_Beginner\03_Ask_Fm\Version\ 01\User.hpp
+ D:\01_Cpp\ Professional\CPP_BeginnerToAdvanced\04_Projects\01_Beginner\03_Ask_Fm\Version\ 01\User.hpp
